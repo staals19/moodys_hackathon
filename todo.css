@@ -1,0 +1,35 @@
+body{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color: #D7E7EC;
+}
+
+h1 {
+  color: #8254EC;
+}
+
+#add-btn {
+  background-color: #9D7BEB;
+}
+
+ul li {
+  list-style: circle;
+  padding-left: 30px;
+  font-size: 30px;
+  display: circle;
+  background-color: #9678DC;
+}
+
+ul li:nth-child(odd) {
+    background: #BBA7EC;
+}
+
+
+.jumbotron{
+    background:#D7E7EC;
+    height:250px;
+}
+.jumbotron img{
+    width:50%;
+    float:left;
+    max-height:160px;
+}
